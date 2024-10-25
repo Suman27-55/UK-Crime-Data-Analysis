@@ -1,7 +1,7 @@
 # UK Crime Data Analysis
 
 ## Introduction
-- This project aims to analyse crime data from the data.police.uk API. It also provided an opportunity to practice and develop skills and experience tools such as Postgresql and Tableau.
+- This project aims to analyse crime data from the data.police.uk API. It also provided an opportunity to practice and develop skills and experience tools such as PostgreSQL and Tableau.
 
 ## Architecture
 ![Architecture](/assets/images/Architecture.png)
