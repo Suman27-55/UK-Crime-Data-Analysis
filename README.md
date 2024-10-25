@@ -4,7 +4,7 @@
 - This project aims to analyse crime data from the data.police.uk API. It also provided an opportunity to practice and develop skills and experience tools such as Postgresql and Tableau.
 
 ## Architecture
-![Architecture](/assets/images/architecture.png)
+![Architecture](/assets/images/Architecture.png)
 
 ## Data Source
 - [data.police.uk](https://data.police.uk/docs/)
